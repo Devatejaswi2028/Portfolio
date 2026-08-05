@@ -4,7 +4,7 @@ This is my personal portfolio — a place to bring together the projects I've bu
 the internships I've done, and the things I'm currently learning as a final-year 
 CS (AI) student.
 
-🔗 **Check it out live:** https://devatejaswi2028.github.io/portfolio/
+🔗 **Check it out live:** https://devatejaswi2028.github.io/Portfolio/
 
 ## A bit about me
 
