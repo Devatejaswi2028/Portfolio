@@ -119,6 +119,6 @@
   ];
   const track = document.getElementById('marquee');
   const buildSet = () => certs.map(c => `<span>${c}</span>`).join('');
-  track.innerHTML = buildSet() + buildSet();
+  track.innerHTML = buildSet() + buildSet(); 
 
   // assign reveal directions already set via classes .left/.right/.up in markup where relevant
