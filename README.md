@@ -23,7 +23,7 @@ I like taking an idea and actually getting it to work, not just talking about it
 - Comfortable with Python, SQL, and C, and genuinely enjoy working with ML and 
   prompt engineering
 
-## How this site is built
+## How this site is built!
 
 Nothing fancy — just plain HTML, CSS, and JavaScript, all in a single file. 
 No frameworks, no libraries. I wanted to see how far I could push vanilla 
