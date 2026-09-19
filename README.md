@@ -37,4 +37,4 @@ If you want to chat, collaborate, or just say hi:
 - 📧 devatejaswijupudi@gmail.com
 - 💼 [LinkedIn](https://linkedin.com/in/deva-tejaswi-jupudi-348165342)
 - 💻 [GitHub](https://github.com/Devatejaswi2028)
-- 🧩 [LeetCode](https://leetcode.com/u/Devatejaswi/)
+
